@@ -6,6 +6,7 @@ import DashboardLayout from '@/component/layout/dashboardlayout/sidebar'
 
 const inter = Inter({ subsets: ['latin'] })
 
+
 export default function Home() {
   return (
     <>
